@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-03-phonebook/static/css/main.459ead31.chunk.css",
+    "main.js": "/goit-react-hw-03-phonebook/static/js/main.83b0c2cc.chunk.js",
+    "main.js.map": "/goit-react-hw-03-phonebook/static/js/main.83b0c2cc.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-03-phonebook/static/js/runtime-main.2f353435.js",
+    "runtime-main.js.map": "/goit-react-hw-03-phonebook/static/js/runtime-main.2f353435.js.map",
+    "static/js/2.c92e7ff8.chunk.js": "/goit-react-hw-03-phonebook/static/js/2.c92e7ff8.chunk.js",
+    "static/js/2.c92e7ff8.chunk.js.map": "/goit-react-hw-03-phonebook/static/js/2.c92e7ff8.chunk.js.map",
+    "index.html": "/goit-react-hw-03-phonebook/index.html",
+    "static/css/main.459ead31.chunk.css.map": "/goit-react-hw-03-phonebook/static/css/main.459ead31.chunk.css.map",
+    "static/js/2.c92e7ff8.chunk.js.LICENSE.txt": "/goit-react-hw-03-phonebook/static/js/2.c92e7ff8.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "/goit-react-hw-03-phonebook/static/media/pexels-anderson-guerra-1150961.a094702f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f353435.js",
+    "static/js/2.c92e7ff8.chunk.js",
+    "static/css/main.459ead31.chunk.css",
+    "static/js/main.83b0c2cc.chunk.js"
+  ]
+}
