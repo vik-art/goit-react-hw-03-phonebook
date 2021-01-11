@@ -1,0 +1,33 @@
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding-inline-start: 0;
+}
+.item {
+  width: 300px;
+  padding: 10px;
+  border: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  border-radius: 10px;
+  font-size: 22px;
+  font-style: italic;
+  background-color: rgb(247, 222, 194);
+  box-shadow: 0 0 10px 5px rgba(238, 177, 107, 1);
+  color: rgb(116, 14, 14);
+}
+.button {
+  width: 80px;
+  height: 35px;
+  border-radius: 10px;
+  margin: 0 auto;
+  background-color: rgb(37, 35, 28);
+  border: none;
+  color: antiquewhite;
+  font-style: italic;
+}

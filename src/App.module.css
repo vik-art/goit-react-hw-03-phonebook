@@ -1,0 +1,26 @@
+.headling {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-size: 30px;
+  font-style: italic;
+  margin-bottom: 20px;
+  color: rgb(238, 177, 107);
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(./img/pexels-anderson-guerra-1150961.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container {
+  padding: 30px;
+}
+.contacts {
+  text-align: center;
+  font-size: 25px;
+  font-style: italic;
+  font-style: italic;
+  color: rgb(238, 177, 107);
+}

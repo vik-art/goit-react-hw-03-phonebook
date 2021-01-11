@@ -1,0 +1,21 @@
+.filter {
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+.label {
+  font-size: 25px;
+  font-style: italic;
+  color: rgb(238, 177, 107);
+}
+.input {
+  margin-left: 10px;
+  height: 40px;
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid rgb(238, 177, 107);
+  color: rgb(238, 177, 107);
+  font-style: italic;
+  width: 200px;
+  font-size: 25px;
+}
